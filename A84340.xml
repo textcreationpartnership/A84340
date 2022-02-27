@@ -1,0 +1,261 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegy upon the decease of the most incomparable pious Lady, the Princesse Elizabeth, VVho dyed in Carisbrook Castle in the Isle of Wight, Septemb. 8. 1650.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84340</idno>
+            <idno type="STC">Wing E479</idno>
+            <idno type="STC">Thomason E644_6</idno>
+            <idno type="STC">Thomason E625_2</idno>
+            <idno type="STC">ESTC R206045</idno>
+            <idno type="EEBO-CITATION">99865237</idno>
+            <idno type="PROQUEST">99865237</idno>
+            <idno type="VID">165974</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165974)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E644[6], 96:E625[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegy upon the decease of the most incomparable pious Lady, the Princesse Elizabeth, VVho dyed in Carisbrook Castle in the Isle of Wight, Septemb. 8. 1650.</title>
+               </titleStmt>
+               <extent>[2], 5, [1]   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed Anno Dom. 1650 [i.e. 1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copies (E.644[6]): "Nou: 1st"; The "0" in the imprint date is crossed out and "1651" written in. (E.625[2]): "feb. 21th".</note>
+                  <note>In verse.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elizabeth, --  Princess of England, 1635-1650.</term>
+               <term>Elegiac poetry, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165974:1" rendition="simple:additions"/>
+            <p>AN ELEGY Upon the Deceaſe of the moſt Incomparable Pious LADY, the PRINCESSE ELIZABETH, VVho Dyed in <hi>Carisbrook Caſtle</hi> in the Iſle of <hi>Wight, Septemb.</hi> 8. 1650.</p>
+            <p>Printed <hi>Anno Dom.</hi> 1650</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:165974:2"/>
+            <p>BY THE PIOUS MEMORY OF THE MOST UNPARALLELD VIRTUOUS LADY THE PRINCESSE ELIZABETH THIS (UNWORTHY UNFAINED) GRATEFUL COMMEMORATION OF HER SAID HIGHNESSE HOPES TO BE ETERNIZ'D.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb n="1" facs="tcp:165974:2"/>
+            <head>AN ELEGY, &amp;c.</head>
+            <lg>
+               <l>THe Virgin Dove her Silver wings hath ſpread,</l>
+               <l>And to the ſacred Cittadell is fled:</l>
+               <l>Affecting Heav'ns white Towers better, then</l>
+               <l>
+                  <hi>Wight</hi>'s' fatall Iſle, and <hi>Cars'brook</hi>'s loathed Den.</l>
+               <l>Ah! that hoarſe Vote ſome drowſie Aſp did ſpet</l>
+               <l>Keener then forked Darts, or Swords new-whet.</l>
+               <l>Why Thither? Some well-choſen Cell had bin</l>
+               <l>The likely iſſue of a courteous ſinne.</l>
+               <l>The law of Pity might meek Saints forbid</l>
+               <l>In the Dam's milk to ſeethe the tender Kid.</l>
+               <l>How quick, how deep a ſenſe! In her nice breſt</l>
+               <l>All Paſsions were to their Large ſhape impreſt.</l>
+               <l>The dainty Air doth not ſo throughly hold</l>
+               <l>The utmoſt Marks of wav'ring Hot and Cold.</l>
+               <l>But oh! Her Father's fall the reſt excell'd,</l>
+               <l>And in her ſuff'rings the juſt Sceptre held.</l>
+               <l>Then Filiall Kindlings flam'd: She in-ward burn'd;</l>
+               <l>On its ſweet ſelf the Pious Rage return'd.</l>
+               <l>Theſe Wounds now bleed afreſh through ev'ry pore</l>
+               <l>Of her lanc'd Heart; and what by fits before</l>
+               <l>In broken Swounds did but Detain her breath,</l>
+               <l>Relapſe of Grief matures to a full Death.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:165974:3"/>
+               <l>Of all the Daughters Humane ſorrow bare</l>
+               <l>None ſo great Darling, nor ſo rich an Heir.</l>
+               <l>Ye that large Meekneſſe could all Wrongs aſſwage,</l>
+               <l>And Circumſcribe their undetermin'd Rage.</l>
+               <l>Her prudent Heart did each Condition ſtate</l>
+               <l>High as her birth, and humble as her fate.</l>
+            </lg>
+            <lg>
+               <l>But I preſume not with rude ſteps to preſſe</l>
+               <l>Into her Cloſet, and devout Receſſe.</l>
+               <l>Amidſt her wakefull Nights, and lonely Dayes,</l>
+               <l>Hid Conflicts, and unutter'd Groans to raiſe:</l>
+               <l>The Vialls of her precious Tear's unſeal,</l>
+               <l>Or trace her winged Sighs, or chafe her Zeal;</l>
+               <l>When ſhe ſunk on low Knees before the God</l>
+               <l>Tir'd Soul its heavy Burden would unload:</l>
+               <l>Which may in time, ſtrung on Heav'ns mindfull file,</l>
+               <l>Tread down Oppreſsion, and redeem the Iſle.</l>
+            </lg>
+            <lg>
+               <l>I ſtand aloof: my too much unſcal'd Eye</l>
+               <l>Dares not into theſe vailed Beauties pry.</l>
+               <l>My narrow Thought ſhall not this Praiſe profane,</l>
+               <l>Nor by raſh Sacriledge ſome part detain<g ref="char:punc">▪</g>
+               </l>
+               <l>Beſides, the Furnace is too hot I find:</l>
+               <l>The fiery Laver that Baptiz'd her Mind.</l>
+               <pb n="3" facs="tcp:165974:3"/>
+               <l>Her Cup-full of Red mighty Wine ſo wreaks,</l>
+               <l>And flings about, that our frail Bottle breaks.</l>
+               <l>Not is this Fear a Shame. Trialls are weigh'd:</l>
+               <l>And pond'rous Croſſes on ſtrong Shoulders laid.</l>
+            </lg>
+            <lg>
+               <l>He knows who hears in ſecret: and prevents</l>
+               <l>Our Works while couch'd but in ſincere Intents.</l>
+               <l>He can articulate the Collected Senſe</l>
+               <l>When dumb Amazement ſwallows Eloquence.</l>
+               <l>Who thoſe Afflictions did to her aſsigne</l>
+               <l>Sees her Vaſt Sorrows farre-extended Line:</l>
+               <l>And to unpity'd anguiſh lent an Ear</l>
+               <l>Which humble inward Throbs did more endear.</l>
+            </lg>
+            <lg>
+               <l>Now though pale Grief hath cull'd her blooming years,</l>
+               <l>Planted along the Bank of flowing Tears;</l>
+               <l>An Orphan ſcorn'd, and thrall'd to the commands</l>
+               <l>(Her Dame thrice chang'd) at laſt of ſervile hands:</l>
+               <l>Though ſhe, poor Innocent, in ominous <hi>Wight</hi>
+               </l>
+               <l>Muſt be reſtrain'd, (which ſlew by a new ſlight)</l>
+               <l>Nor did attain to her dear Mothers Face,</l>
+               <l>Or Sov'reigne Brothers paſsionate Embrace.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:165974:4"/>
+               <l>Yet the juſt God doth righteous Cryes regard,</l>
+               <l>And Faith reaps an unfailing ſure reward:</l>
+               <l>For theſe Black Waters but enhance each Gemme</l>
+               <l>Which ſparkles in her Orient Diadem.</l>
+            </lg>
+            <lg>
+               <l>Nor can the riper Sinners hence much boaſt;</l>
+               <l>One Royall Captive loos'd, one Hoſtage loſt.</l>
+            </lg>
+            <lg>
+               <l>Onely let <hi>Gloc'ſter</hi> feel this weighty ſtroke,</l>
+               <l>And now begins to draw in Sorrow's yoke:</l>
+               <l>His chearfull Inn'cence ſtill ſmil'd at ſmart,</l>
+               <l>As Harden'd came upon Afflictions Dart:</l>
+               <l>Like ſome coy Virgins which fond Love deride,</l>
+               <l>Mocking the Paſsion that they never try'd:</l>
+               <l>But now the barbed ſhaft his Vitalls ſtain,</l>
+               <l>And feel ſore Vengeance of their long Diſdain.</l>
+               <l>Great Sir! Who can thy Solitudes delight,</l>
+               <l>Seaſon thy Pleaſures, or thy time invite?</l>
+               <l>Who with Wiſe Upright Counſell now can chalk,</l>
+               <l>What way thou ſhouldſt o'<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e their ſpread Tramels walk?</l>
+               <l>Or thee, with near Example and Advice</l>
+               <l>Into Religion's narrow Path entice?</l>
+               <l>Sit down and Cry, thy Guide, thy Guide is gone:</l>
+               <l>Cry, Cry aloud, till God attend thy Moan.</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:165974:4"/>
+               <l>But her Good Name ſhall ſweeten ev'ry Ear;</l>
+               <l>As flowing Odours roll a fragrant Sphere.</l>
+               <l>Unenvy'd Glory's he<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> late Aſhes crown,</l>
+               <l>Or foe, or friend, all bring a juſt renown.</l>
+               <l>Her Baniſhers with Joy agaſt look wan,</l>
+               <l>Judge their own Counſels, and their Wiſhes ban.</l>
+               <l>Vertue delights ſtill to be thus array'd</l>
+               <l>In the pure Mem'ry of a Princely Maid.</l>
+               <l>Her Fun'ralls like they ſhould all Coſt forbid</l>
+               <l>Whoſe hands have rear'd up her own Pyramid.</l>
+               <l>And her try'd Patience breathes a balmy Air,</l>
+               <l>Sweet as fum'd Incenſe, or the Lips of Pray'r.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
